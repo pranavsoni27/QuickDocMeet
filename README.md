@@ -16,11 +16,13 @@ and hosted on netlify
 # 🔧 Technologies and tools used:
 
 React.js for creating a dynamic, component-based user interface.
-Tailwind CSS for styling and ensuring a mobile-friendly, responsive layout.
-HTML & CSS for structuring and styling the overall content.
-JavaScript for real-time functionality and interaction.
-APIs to fetch real-time availability of doctors and manage bookings.
 
-🔍 Hashtags
+Tailwind CSS for styling and ensuring a mobile-friendly, responsive layout.
+
+HTML & CSS for structuring and styling the overall content.
+
+JavaScript for real-time functionality and interaction.
+
+# 🔍 Hashtags
 
 #frontenddevelopment #reactjs #tailwindcss #quickdocmeet #onlineappointments #doctorbooking #responsivedesign #healthcaretech #javascript #html #css #uiuxdesign #mobilefirst #seo #webdevelopment #realtimebooking #healthcaresolutions #webanimations #webdevjourney #portfolioshowcase #githubportfolio #modernwebdevelopment #mobilefriendly #apibasedapps #fullstackdevelopment #opensource #webdevelopmentprojects #healthtech #frontenddeveloper #appointmentbooking #techforhealthcare #javascriptdeveloper #tailwinddesign #uxbestpractices #apptmanagement
