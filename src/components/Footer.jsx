@@ -7,7 +7,7 @@ const Footer = () => {
         <div className='flex flex-col sm:grid grid-cols-[3fr_1fr_1fr] gap-14 my-10 mt-40 text-sm'>
                 {/*..........left............*/}
                 <div>
-                        <img className='mb-5 w-40' src={assets.logo} alt="" />
+                        <img className='mb-5 w-40' src={assets.qdm} alt="" />
                         <p className='w-full md:w-2/3 text-gray-600 leading-6'>Our branches are also located at: Jaipur, Delhi, Mumbai.</p>
                 </div>
 
@@ -35,8 +35,8 @@ const Footer = () => {
         </div>
         <div>
                 {/*...........copyright text..............*/}
-                <hr />
-                <p className='py-5 text-sm text-center'>Copyright 2025@ QuickDocMeet - All Rights Reserved</p>
+                <hr className='bg-purple-800 h-1' />
+                <p className='py-5 text-sm text-center'>Copyright 2025 &copy; QuickDocMeet - All Rights Reserved</p>
         </div>
     </div>
   )
